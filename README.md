@@ -1,4 +1,4 @@
-# Flight-Fare-predictor
+# Flight Fare Predictor: 
 
 ## Table of Content
   * [Demo](#demo)
@@ -13,7 +13,7 @@
 
 ## Demo
 Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/)
-![flight](https://github.com/user-attachments/assets/9e108d2d-5946-4d51-8f84-69c74f4b18c1)
+![flight](https://github.com/user-attachments/assets/c6d148a4-912a-4481-b527-9ad1071b8aa1)
 
 
 ## Overview
@@ -56,8 +56,13 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
 
 
- ## Future Scope
+## Bug / Feature Request
+
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/Mandal-21/Flight-Price-Prediction/issues) here by including your search query and the expected result
+
+## Future Scope
 
 * Use multiple Algorithms
 * Optimize Flask app.py
 * Front-End 
+
